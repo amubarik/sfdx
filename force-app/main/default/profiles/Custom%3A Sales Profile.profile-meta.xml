@@ -42,11 +42,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <tabVisibilities>
-        <tab>Account_Locator</tab>
+        <tab>standard-Account</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>standard-Account</tab>
+        <tab>test</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>

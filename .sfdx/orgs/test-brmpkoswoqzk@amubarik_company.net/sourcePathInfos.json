@@ -892,66 +892,66 @@
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 5767,
-            "modifiedTime": 1498684171000,
-            "changeTime": 1498684171000,
-            "contentHash": "a10e74fdbe768a899b68167f4ac7c0f13124723d",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 5756,
+            "modifiedTime": 1498704562000,
+            "changeTime": 1498704562000,
+            "contentHash": "fb918d683d54e97281fbe6f15e57dea4c7bc6d68"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 5429,
-            "modifiedTime": 1498684171000,
-            "changeTime": 1498684171000,
-            "contentHash": "2edc3bf49c46276d990ccce2d0ef7571a8bd5147",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 5418,
+            "modifiedTime": 1498704562000,
+            "changeTime": 1498704562000,
+            "contentHash": "01cf52b4b549ad1214749c11d838fe17adb25236"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 5429,
-            "modifiedTime": 1498684171000,
-            "changeTime": 1498684171000,
-            "contentHash": "2edc3bf49c46276d990ccce2d0ef7571a8bd5147",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 5418,
+            "modifiedTime": 1498704562000,
+            "changeTime": 1498704562000,
+            "contentHash": "01cf52b4b549ad1214749c11d838fe17adb25236"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 17537,
-            "modifiedTime": 1498684171000,
-            "changeTime": 1498684171000,
-            "contentHash": "4903e3fd0f926f926007a37593a31f8b9f87b021",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 17643,
+            "modifiedTime": 1498704562000,
+            "changeTime": 1498704562000,
+            "contentHash": "dd1548c8cdea491b73454f3c1436b9edd6a3fedf"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
-            "size": 102,
-            "modifiedTime": 1498684171000,
-            "changeTime": 1498684171000,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 136,
+            "modifiedTime": 1498704562000,
+            "changeTime": 1498704562000,
+            "contentHash": "006954d431b285c91a34a9be12a76ba8ebfe1a14"
         }
     ],
     [
@@ -1152,235 +1152,248 @@
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 49,
             "modifiedTime": 1498685793000,
             "changeTime": 1498685793000,
-            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732"
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1498685793000,
             "changeTime": 1498685793000,
-            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e"
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 206,
             "modifiedTime": 1498685793000,
             "changeTime": 1498685793000,
-            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1"
+            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 44,
             "modifiedTime": 1498685793000,
             "changeTime": 1498685793000,
-            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d"
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
         {
-            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 170,
             "modifiedTime": 1498685793000,
             "changeTime": 1498685793000,
-            "contentHash": "97aec742d594f26443b71d24ed7ae41e88305ad0"
+            "contentHash": "97aec742d594f26443b71d24ed7ae41e88305ad0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1498685793000,
             "changeTime": 1498685793000,
-            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e"
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 191,
             "modifiedTime": 1498685793000,
             "changeTime": 1498685793000,
-            "contentHash": "bc5a0d295fcd4f383fa5f1680aa821c8190f38eb"
+            "contentHash": "bc5a0d295fcd4f383fa5f1680aa821c8190f38eb",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 395,
             "modifiedTime": 1498685793000,
             "changeTime": 1498685793000,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 49,
             "modifiedTime": 1498685793000,
             "changeTime": 1498685793000,
-            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732"
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
-            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 42,
             "modifiedTime": 1498685793000,
             "changeTime": 1498685793000,
-            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c"
+            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 898,
             "modifiedTime": 1498685793000,
             "changeTime": 1498685793000,
-            "contentHash": "e5fa1907532eba47b18473e3ed8232568fdb1adc"
+            "contentHash": "e5fa1907532eba47b18473e3ed8232568fdb1adc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 44,
             "modifiedTime": 1498685793000,
             "changeTime": 1498685793000,
-            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d"
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1498685793000,
             "changeTime": 1498685793000,
-            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e"
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 335,
             "modifiedTime": 1498685793000,
             "changeTime": 1498685793000,
-            "contentHash": "cda568aee51d502e9f71e1098f44eaa180f397fc"
+            "contentHash": "cda568aee51d502e9f71e1098f44eaa180f397fc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
         {
-            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 91,
             "modifiedTime": 1498685793000,
             "changeTime": 1498685793000,
-            "contentHash": "14baa28d7d740e80c11f4d90a3c1393c1c758ca5"
+            "contentHash": "14baa28d7d740e80c11f4d90a3c1393c1c758ca5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 49,
             "modifiedTime": 1498685793000,
             "changeTime": 1498685793000,
-            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732"
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 64,
             "modifiedTime": 1498685793000,
             "changeTime": 1498685793000,
-            "contentHash": "65072628efe5f0288eba365d51e9e7c918b02897"
+            "contentHash": "65072628efe5f0288eba365d51e9e7c918b02897",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 44,
             "modifiedTime": 1498685793000,
             "changeTime": 1498685793000,
-            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d"
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/tabs/test.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/amubarik/Documents/sfdx/geolocation/force-app/main/default/tabs/test.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 263,
+            "modifiedTime": 1498704562000,
+            "changeTime": 1498704562000,
+            "contentHash": "ce9ed11c5b513f617133693cd71c23f75049a858"
         }
     ]
 ]
